@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "d4ac274d05ca0442",
+    "type": "split",
+    "children": [
+      {
+        "id": "f62704ee3b4c72e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8be7f7982ee315f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ubuntu/git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git"
+            }
+          },
+          {
+            "id": "8ff6dae05ee558d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "webserver/游双book/4 访问Internet上的Web服务.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 访问Internet上的Web服务"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d9c6d0d03af33b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "19f8a139d40ee68d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24ab829756117089",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "cb29d9351a08ec90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "so",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e964f225d9db98d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ee29baf456bf4233",
+    "type": "split",
+    "children": [
+      {
+        "id": "63dbaebbbdab8c84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "103b7e136c0b8749",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "leetcode_all/solution/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
+            }
+          },
+          {
+            "id": "cd5a08e2008c8ade",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "leetcode_all/solution/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
+            }
+          },
+          {
+            "id": "9732d270846e8397",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "136cd2f2ab021f96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "leetcode_all/solution/0000-0099/0001.Two Sum/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f8be7f7982ee315f",
+  "lastOpenFiles": [
+    "webserver/一些工具.md",
+    "webserver/游双book/4 访问Internet上的Web服务.md",
+    "webserver/游双book/3.7 TCP成块数据流.md",
+    "webserver/游双book/3.6 TCP交互数据流.md",
+    "webserver/游双book/3.3 TCP连接建立与关闭.md",
+    "webserver/游双book/3.2 TCP头部结构.md",
+    "webserver/游双book/2.4 IP路由.md",
+    "webserver/游双book/2.3 IP分片.md",
+    "webserver/游双book/2.2 IP头部结构.md",
+    "webserver/游双book/1.5 ARP协议.md",
+    "webserver/游双book/1.6 DNS原理.md",
+    "webserver/游双book/Linux高性能服务器编程+(游双)+(Z-Library).pdf",
+    "webserver/tinywebserver.md",
+    "webserver/游双book/4 总结.md",
+    "webserver/游双book/图片：4协议框架.png",
+    "webserver/游双book/图片：4实例输出.png",
+    "webserver/游双book/图片：4实例.png",
+    "未命名.md",
+    "webserver/游双book/图片：3.6TCP交互数据.jpeg",
+    "webserver/游双book/图片：3.2TCP头部结构.png",
+    "webserver/游双book/图片：2.3分片.png",
+    "webserver/游双book/图片：2.2IP头部结构.png",
+    "webserver/游双book",
+    "c++/vscode配置.md",
+    "c++/books/微信小程序开发实战 (黑马程序员) (Z-Library).pdf",
+    "c++/gdb调试.md",
+    "webserver",
+    "ubuntu/git.md",
+    "c++/projects/一些开源库.md",
+    "ubuntu/dev.md",
+    "c++/books/CppCoreGuidelines/CppCoreGuidelines-zh-CN.md",
+    "c++/books/CppCoreGuidelines/README.md",
+    "c++/books/CppCoreGuidelines/cpp_core_guidelines_logo_text.png",
+    "c++/books/CppCoreGuidelines/CONTRIBUTING.md",
+    "c++/projects/kilo/file.md",
+    "c++/projects/kilo/editrow.md",
+    "c++/projects/kilo/highlight.md",
+    "c++/projects/kilo",
+    "c++/语法知识点",
+    "c++/projects",
+    "ubuntu",
+    "CMakeLists 4.txt",
+    "CMakeLists 3.txt",
+    "leetcode_all/solution/2100-2199/2196.Create Binary Tree From Descriptions/images/example2drawio.png",
+    "leetcode_all/solution/2100-2199/2196.Create Binary Tree From Descriptions/images/example1drawio.png",
+    "未命名.canvas"
+  ]
+}
