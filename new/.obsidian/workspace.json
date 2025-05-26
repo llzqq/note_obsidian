@@ -1,55 +1,56 @@
 {
   "main": {
-    "id": "d4ac274d05ca0442",
+    "id": "a039e870ee16a6b4",
     "type": "split",
     "children": [
       {
-        "id": "f62704ee3b4c72e0",
+        "id": "43d17fbacbc680f6",
         "type": "tabs",
         "children": [
           {
-            "id": "f8be7f7982ee315f",
+            "id": "4deefea8ece9f6a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ubuntu/git.md",
+                "file": "c++语法知识点/类.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "类"
             }
           },
           {
-            "id": "8ff6dae05ee558d9",
+            "id": "c84a470803fa9d1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "webserver/游双book/4 访问Internet上的Web服务.md",
-                "mode": "source",
+                "file": "webserver/游双book笔记/第二部分/7 Linux服务器程序规范.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 访问Internet上的Web服务"
+              "title": "7 Linux服务器程序规范"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0d9c6d0d03af33b7",
+    "id": "27be0604f8a175c2",
     "type": "split",
     "children": [
       {
-        "id": "19f8a139d40ee68d",
+        "id": "a7b8d6553d6df012",
         "type": "tabs",
         "children": [
           {
-            "id": "24ab829756117089",
+            "id": "e00e0aaf1449095a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,12 +63,12 @@
             }
           },
           {
-            "id": "cb29d9351a08ec90",
+            "id": "3d6c471a2a692c2e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "so",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +80,7 @@
             }
           },
           {
-            "id": "e964f225d9db98d5",
+            "id": "8142221267ec0908",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,24 +93,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 269.5,
     "collapsed": true
   },
   "right": {
-    "id": "ee29baf456bf4233",
+    "id": "a7780e3039466cf4",
     "type": "split",
     "children": [
       {
-        "id": "63dbaebbbdab8c84",
+        "id": "312eb17047fa2ad9",
         "type": "tabs",
         "children": [
           {
-            "id": "103b7e136c0b8749",
+            "id": "58efe9a01ecff8df",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode_all/solution/README.md",
+                "file": "others/mysql/库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "库 的反向链接列表"
             }
           },
           {
-            "id": "cd5a08e2008c8ade",
+            "id": "5457863145dc9f06",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode_all/solution/README.md",
+                "file": "webserver/bb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "bb 的出链列表"
             }
           },
           {
-            "id": "9732d270846e8397",
+            "id": "c7a12d9fc0423050",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,18 +153,18 @@
             }
           },
           {
-            "id": "136cd2f2ab021f96",
+            "id": "17b5aac7c95b6621",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode_all/solution/0000-0099/0001.Two Sum/README.md",
+                "file": "webserver/bb.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "bb 的大纲"
             }
           }
         ]
@@ -183,53 +184,47 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f8be7f7982ee315f",
+  "active": "c84a470803fa9d1a",
   "lastOpenFiles": [
-    "webserver/一些工具.md",
-    "webserver/游双book/4 访问Internet上的Web服务.md",
-    "webserver/游双book/3.7 TCP成块数据流.md",
-    "webserver/游双book/3.6 TCP交互数据流.md",
-    "webserver/游双book/3.3 TCP连接建立与关闭.md",
-    "webserver/游双book/3.2 TCP头部结构.md",
-    "webserver/游双book/2.4 IP路由.md",
-    "webserver/游双book/2.3 IP分片.md",
-    "webserver/游双book/2.2 IP头部结构.md",
-    "webserver/游双book/1.5 ARP协议.md",
-    "webserver/游双book/1.6 DNS原理.md",
-    "webserver/游双book/Linux高性能服务器编程+(游双)+(Z-Library).pdf",
-    "webserver/tinywebserver.md",
-    "webserver/游双book/4 总结.md",
-    "webserver/游双book/图片：4协议框架.png",
-    "webserver/游双book/图片：4实例输出.png",
-    "webserver/游双book/图片：4实例.png",
-    "未命名.md",
-    "webserver/游双book/图片：3.6TCP交互数据.jpeg",
-    "webserver/游双book/图片：3.2TCP头部结构.png",
-    "webserver/游双book/图片：2.3分片.png",
-    "webserver/游双book/图片：2.2IP头部结构.png",
-    "webserver/游双book",
+    "c++语法知识点/类.md",
+    "webserver/游双book笔记/第二部分/7 Linux服务器程序规范.md",
+    "others/mysql/用户.md",
+    "c++语法知识点/命名规则.md",
+    "c++语法知识点/宏.md",
+    "c++语法知识点/错误处理.md",
+    "c++语法知识点/ASCII.md",
+    "c++语法知识点/字符串.md",
+    "c++语法知识点/字典.md",
+    "c++语法知识点/文件.md",
+    "c++语法知识点/数组.md",
+    "c++语法知识点/链表.md",
+    "c++语法知识点/联合.md",
+    "c++语法知识点/静态.md",
+    "c++语法知识点/多线程.md",
+    "c++语法知识点/哈系表.md",
+    "webserver/游双book笔记/第四部分/10 信号.md",
     "c++/vscode配置.md",
-    "c++/books/微信小程序开发实战 (黑马程序员) (Z-Library).pdf",
-    "c++/gdb调试.md",
-    "webserver",
-    "ubuntu/git.md",
-    "c++/projects/一些开源库.md",
-    "ubuntu/dev.md",
-    "c++/books/CppCoreGuidelines/CppCoreGuidelines-zh-CN.md",
-    "c++/books/CppCoreGuidelines/README.md",
-    "c++/books/CppCoreGuidelines/cpp_core_guidelines_logo_text.png",
-    "c++/books/CppCoreGuidelines/CONTRIBUTING.md",
-    "c++/projects/kilo/file.md",
-    "c++/projects/kilo/editrow.md",
-    "c++/projects/kilo/highlight.md",
-    "c++/projects/kilo",
-    "c++/语法知识点",
-    "c++/projects",
-    "ubuntu",
-    "CMakeLists 4.txt",
-    "CMakeLists 3.txt",
-    "leetcode_all/solution/2100-2199/2196.Create Binary Tree From Descriptions/images/example2drawio.png",
-    "leetcode_all/solution/2100-2199/2196.Create Binary Tree From Descriptions/images/example1drawio.png",
-    "未命名.canvas"
+    "others/mysql/库.md",
+    "webserver/游双book笔记/第三部分/8.1 服务器模型.md",
+    "webserver/游双book笔记/第四部分/12 IO框架库.md",
+    "others/mysql",
+    "webserver/游双book笔记/第二部分/6 高级IO函数.md",
+    "webserver/游双book笔记/图片/图片：9xinetd.png",
+    "webserver/游双book笔记/图片/图片：8.1框架.png",
+    "webserver/游双book笔记/图片/图片：2.2IP头部结构.png",
+    "webserver/游双book笔记/图片",
+    "webserver/游双book笔记/第四部分/11 定时器.md",
+    "webserver/游双book笔记/第四部分/9 IO复用.md",
+    "webserver/游双book笔记/第一部分/4 http.md",
+    "webserver/游双book笔记/第三部分/8.6 其他高性能设计.md",
+    "webserver/游双book笔记/第四部分",
+    "webserver/游双book笔记/图片/图片：8.4领导者追随者.png",
+    "webserver/游双book笔记/图片/图片：8.4状态转移.png",
+    "webserver/游双book笔记/图片/图片：8.4领导者追随者模式的组件.png",
+    "webserver/游双book笔记/图片/图片：8.4高效的半同步半异步模式.png",
+    "webserver/游双book笔记/图片/图片：8.4半同步半反应堆模式.png",
+    "webserver/游双book笔记/图片/图片：8.4半同步半异步.png",
+    "webserver/游双book笔记/图片/图片：8.4同步和异步.png",
+    "webserver/游双book笔记/第三部分"
   ]
 }

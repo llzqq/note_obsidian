@@ -83,3 +83,21 @@
   ]
 }
 ```
+
+#### 一些插件
+**clang-format**
+```bash
+# 自动化整理格式
+# 安装
+sudo apt install clang-format  # 系统安装
+clang-format   # vscode安装
+# 得到配置文件
+clang-format -style=google -dump-config > .clang-format
+# vscode settings.json配置
+"editor.formatOnSave": true,
+"clang-format.style": "file",
+"clang-format.assumeFilename": "/home/lzq/.clang-format",
+"clang-format.executable": "/usr/bin/clang-format",
+"clang-format.fallbackStyle": "Google",
+"editor.defaultFormatter": "xaver.clang-format"
+```
