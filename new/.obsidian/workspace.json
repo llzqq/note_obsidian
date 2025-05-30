@@ -8,35 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4deefea8ece9f6a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "c++语法知识点/类.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "类"
-            }
-          },
-          {
             "id": "c84a470803fa9d1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "webserver/游双book笔记/第二部分/7 Linux服务器程序规范.md",
-                "mode": "preview",
+                "file": "webserver/游双book笔记/第四部分/9 IO复用.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 Linux服务器程序规范"
+              "title": "9 IO复用"
+            }
+          },
+          {
+            "id": "2ffdc73f79a37620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c++语法知识点/堆与栈.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "堆与栈"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,12 +185,26 @@
   },
   "active": "c84a470803fa9d1a",
   "lastOpenFiles": [
+    "webserver/游双book笔记/第三部分/8.2 IO模型.md",
+    "webserver/游双book笔记/第二部分/5.1 socket地址API.md",
+    "webserver/游双book笔记/第二部分/5.2&5.3 创建和命名socket.md",
+    "webserver/游双book笔记/第二部分/5.4&5.5 监听socket与连接socket.md",
+    "webserver/项目笔记/3 连接池 connection_pool.md",
+    "c++语法知识点/堆与栈.md",
     "c++语法知识点/类.md",
-    "webserver/游双book笔记/第二部分/7 Linux服务器程序规范.md",
+    "webserver/项目笔记/4 线程池 thread_pool.md",
+    "c++语法知识点/多线程.md",
+    "c++语法知识点/错误处理.md",
+    "c++语法知识点/函数.md",
+    "others/ubuntu/端口.md",
     "others/mysql/用户.md",
+    "webserver/项目笔记/1 lock 异步多线程.md",
+    "webserver/项目笔记/2 错误处理.md",
+    "webserver/游双book笔记/第二部分/6 高级IO函数.md",
+    "webserver/游双book笔记/第二部分/7 Linux服务器程序规范.md",
+    "webserver/项目笔记",
     "c++语法知识点/命名规则.md",
     "c++语法知识点/宏.md",
-    "c++语法知识点/错误处理.md",
     "c++语法知识点/ASCII.md",
     "c++语法知识点/字符串.md",
     "c++语法知识点/字典.md",
@@ -199,24 +212,11 @@
     "c++语法知识点/数组.md",
     "c++语法知识点/链表.md",
     "c++语法知识点/联合.md",
-    "c++语法知识点/静态.md",
-    "c++语法知识点/多线程.md",
-    "c++语法知识点/哈系表.md",
-    "webserver/游双book笔记/第四部分/10 信号.md",
-    "c++/vscode配置.md",
-    "others/mysql/库.md",
-    "webserver/游双book笔记/第三部分/8.1 服务器模型.md",
-    "webserver/游双book笔记/第四部分/12 IO框架库.md",
     "others/mysql",
-    "webserver/游双book笔记/第二部分/6 高级IO函数.md",
     "webserver/游双book笔记/图片/图片：9xinetd.png",
     "webserver/游双book笔记/图片/图片：8.1框架.png",
     "webserver/游双book笔记/图片/图片：2.2IP头部结构.png",
     "webserver/游双book笔记/图片",
-    "webserver/游双book笔记/第四部分/11 定时器.md",
-    "webserver/游双book笔记/第四部分/9 IO复用.md",
-    "webserver/游双book笔记/第一部分/4 http.md",
-    "webserver/游双book笔记/第三部分/8.6 其他高性能设计.md",
     "webserver/游双book笔记/第四部分",
     "webserver/游双book笔记/图片/图片：8.4领导者追随者.png",
     "webserver/游双book笔记/图片/图片：8.4状态转移.png",
