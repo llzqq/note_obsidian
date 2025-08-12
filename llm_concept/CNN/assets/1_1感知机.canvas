@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"921d75a52e408ecd","type":"text","text":"x1","x":-120,"y":-250,"width":125,"height":50},
+		{"id":"a7c61a6d91f7693d","type":"text","text":"x2","x":-120,"y":-80,"width":125,"height":50},
+		{"id":"e0c748057f347e7e","type":"text","text":"**y**=   0   (b + x1\\*w1 + x2\\*w2 <= 0)\n&nbsp;&nbsp;&nbsp;1   (b + x1\\*w1 + x2\\*w2 >0)","x":160,"y":-180,"width":340,"height":80}
+	],
+	"edges":[
+		{"id":"3ccc99f234886f0f","fromNode":"921d75a52e408ecd","fromSide":"right","toNode":"e0c748057f347e7e","toSide":"left","label":"w1"},
+		{"id":"dd093b4fbdbf73c4","fromNode":"a7c61a6d91f7693d","fromSide":"right","toNode":"e0c748057f347e7e","toSide":"left","label":"w2"}
+	]
+}

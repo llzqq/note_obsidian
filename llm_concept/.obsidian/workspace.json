@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "64c299ef8ec92dd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e0089e9a0c42282",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6be9e4902bf4c9e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "机器学习/机器学习.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "机器学习"
+            }
+          },
+          {
+            "id": "5360b4e3290bfb37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8.11.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.11"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed6dca8c10c28735",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfbe0269c6617d02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3332d39872cee7b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5539cdc973dfe493",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "589084646c015249",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9b9b975019c90c1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4d3d3925770875e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "380b6739335daf17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "机器学习/机器学习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "机器学习 的反向链接列表"
+            }
+          },
+          {
+            "id": "33651648d8f923a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "机器学习/机器学习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "机器学习 的出链列表"
+            }
+          },
+          {
+            "id": "3424de93fb6eb9d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5b84df9c365fb216",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "self_learn/发展历程.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "发展历程 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6be9e4902bf4c9e2",
+  "lastOpenFiles": [
+    "机器学习/Logic Regression.md",
+    "机器学习/机器学习.md",
+    "花书/assets/dlbook_cn_v0.5-beta.pdf",
+    "花书/assets",
+    "Transformer/assets/附录.pdf",
+    "Transformer/assets/1_0p3.png",
+    "Transformer/assets/1_0p2.png",
+    "Transformer/assets/1_0p1.png",
+    "Transformer/assets",
+    "Transformer/color-graph.rar/1_0p3.png",
+    "Transformer/color-graph.rar/1_0p2.png",
+    "Transformer/color-graph.rar/1_0p1.png",
+    "Transformer/code/Notebook images/Bonus/DR.png",
+    "Transformer/code/Notebook images/AppIV/B17948_Appendix IV_01.PNG",
+    "Transformer/code/Notebook images/AppIII/B17948_Appendix III_04.PNG",
+    "Transformer/code/Notebook images/AppIII/B17948_Appendix III_03.PNG",
+    "Transformer/code/Notebook images/01/9781803247335_ColorImages.pdf",
+    "Transformer/code/Chapter09/gpt-2-train_files/train.py",
+    "Transformer/code/Chapter09/gpt-2-train_files/memory_saving_gradients.py",
+    "Transformer/code/Chapter09/gpt-2-train_files/mdset.txt",
+    "Transformer/code/Chapter09/gpt-2-train_files/load_dataset.py",
+    "Transformer/code/Chapter09/gpt-2-train_files/encode.py",
+    "Transformer/code/Articles/ChatGPT as a Cobot.md",
+    "Transformer/code/README.md",
+    "Transformer/Transformers-for-NLP-2nd-Edition-main/Articles/ChatGPT as a Cobot.md",
+    "Transformer/Transformers-for-NLP-2nd-Edition-main/README.md",
+    "记录/LLM发展历程.md",
+    "记录/概念.md",
+    "CNN/CNN.md",
+    "CNN/assets/1_1感知机.canvas",
+    "CNN/2_神经网络学习.md",
+    "CNN/1_神经网络基础.md",
+    "花书/1_引言.md",
+    "8.11.md",
+    "CNN/assets/3_1三层神经网络.canvas",
+    "记录/8.9.md",
+    "记录/8.8.md",
+    "Transformer/1_Transformer模型介绍.md",
+    "Transformer/0.md",
+    "因为概率.md",
+    "latex.md",
+    "Transformer/2_BERT.md",
+    "CNN/3_卷积神经网络 CNN.md",
+    "Transformer/color-graph.rar/Transformers-for-NLP-2nd-Edition-main/Articles/ChatGPT as a Cobot.md",
+    "Transformer/color-graph.rar/Transformers-for-NLP-2nd-Edition-main/README.md",
+    "Transformer/color-graph.rar/7f90de5c-878d-11ee-aa0c-00163e36b535/Transformers-for-NLP-2nd-Edition-main/README.md",
+    "Transformer/color-graph.rar/7f90de5c-878d-11ee-aa0c-00163e36b535/Transformers-for-NLP-2nd-Edition-main/Articles/ChatGPT as a Cobot.md",
+    "CNN/assets/1_3三层神经网络.canvas",
+    "CNN/assets/1_2激活函数.canvas"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "3e4497aa74b7ffcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "238a0cd69368dd44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3372bbfb8feb87c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basic/ubuntu/python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "python"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c09c4f5be1e81353",
+    "type": "split",
+    "children": [
+      {
+        "id": "232a388474a74e52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f705849938ebff2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "efba13e024e0416d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d6c33a89875f2fd2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ee1ed2b11096a28",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b09957f36279ba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a437f5e8cac226f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "basic/ubuntu/清理垃圾.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "清理垃圾 的反向链接列表"
+            }
+          },
+          {
+            "id": "2d79ca7cd3710deb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "basic/ubuntu/清理垃圾.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "清理垃圾 的出链列表"
+            }
+          },
+          {
+            "id": "69f7abaae457d15f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "23ec9647afd56062",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "basic/ubuntu/清理垃圾.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "清理垃圾 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d3372bbfb8feb87c",
+  "lastOpenFiles": [
+    "basic/ubuntu/图像.md",
+    "basic/ubuntu/onedrive.md",
+    "basic/ubuntu/python.md",
+    "basic/ubuntu/输入法.md",
+    "basic/ubuntu/清理垃圾.md"
+  ]
+}
