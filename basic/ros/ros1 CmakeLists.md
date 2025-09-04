@@ -59,6 +59,8 @@ set(OpenCV_LIBRARIES "/usr/local/lib")
 ```
 #### opencv版本冲突
 ```
+find_package(OpenCV 4.5.4 REQUIRED)
+
 set(LIBS 
 ...
 /usr/local/lib/libopencv_core.so.3.4
